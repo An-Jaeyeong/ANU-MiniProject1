@@ -1,6 +1,8 @@
 # ANU-MiniProject1
 사용프로그램 : Visual Studio , Oracle </br>
+</br>
 개발기간 : 2021.05.26~2021.05.31 </br>
+</br>
 ![image](https://user-images.githubusercontent.com/65813865/165924981-17a29074-9dd0-48e0-91de-2a8d45d22e89.png)
 ![image](https://user-images.githubusercontent.com/65813865/165925004-4685b5d9-8c5d-4a7f-8d31-46175b235671.png)
 ![image](https://user-images.githubusercontent.com/65813865/165925012-2cc17637-4b79-47c2-b642-4c8f0f06e5b2.png)
